@@ -6,17 +6,17 @@ const readMore = more.repeat(4001)
 
 // Owner
 global.owner = [
-['6285760451683', 'Zeltoria', true]
+['6281779267435', 'Zeltoria', true]
 ]
 global.mods = []
 global.prems = []
 // Info
-global.nomorwa = '6285760451683'
-global.author = '© Xyroinee'
-global.namebot = '​Clara - MD'
-global.wm = '© Clara By Xyroine'
-global.stickpack = 'Clara - MD'
-global.stickauth = '© Xyroine'
+global.nomorwa = '6285777468511'
+global.author = '© WanzOsakaBotzシ'
+global.namebot = 'WanzOsakaBotzシ'
+global.wm = '© WanzOsakaBotzシ'
+global.stickpack = 'WanzOsakaBotzシ'
+global.stickauth = '© WanzOsakaBotzシ'
 // Link Sosmed
 global.sig = 'https://www.instagram.com/danilelistz02'
 global.sgh = 'https://github.com/Xyroinee'
@@ -30,7 +30,7 @@ global.wait = '_Sedang Di Proses, Mohon Tunggu_....'
 global.eror = 'Terjadi Kesalahan Coba Lagi Nanti!'
 global.multiplier = 69 
 // Apikey
-global.xyro = 'apikeylu'
+global.xyro = 'FLt3ceNQ8I'
 // Website: https://api.xyroinee.xyz
 // Daftar Ke Website Tersebut Untuk..
 // Mendapatkan Apikey Kamu
